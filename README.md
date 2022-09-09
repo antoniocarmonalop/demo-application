@@ -30,4 +30,4 @@ You should populate the `DB_CONNECTION_URL`.
 
 4) Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-**NOTE**: The page auto-updates as you edit the file.
+**NOTE**: The page auto-updates as you edit the file :_)
