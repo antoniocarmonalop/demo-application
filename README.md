@@ -1,6 +1,6 @@
 # TODO Checklist Application
 
-Dead simple TODO application.
+Dead simple TODO application
 
 ## To Run It Locally
 
